@@ -1,4 +1,4 @@
-    1 *
+    1 
     2  ls -altr
     3  lsb_release -d
     4  wsl -l -v
